@@ -14,7 +14,7 @@ Had some help and guidance from Anthony Panarello, @atpan. Thanks Anthony!
 3. Open a terminal or command prompt and navigate to the directory where the source code is located.
 
 4. Run the following command to build the code:
-    
+
     $ cargo build
 
 5. After the code has been built, run the following command to run the port scanner:
