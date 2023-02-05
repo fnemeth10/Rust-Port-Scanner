@@ -1,13 +1,9 @@
 # Rust-Port-Scanner
+
 This Rust code is a simple port scanner. It takes in two optional command-line arguments: the minimum and maximum ports to scan. The program will scan all the ports from min_port to max_port and determine if they are open or closed. If a port is open, it will be displayed as "Port X is open". If a port is closed, it will be counted as a closed port. At the end of the scan, the number of open and closed ports will be displayed.
 
-<<<<<<< HEAD
-With some help and guidance from Anthony Panarello, @atpan. 
-=======
+
 Had some help and guidance from Anthony Panarello, @atpan. Thanks Anthony!
-<<<<<<< HEAD
->>>>>>> 9d18bc9 (Updated README)
-=======
 
 # Steps to run the code:
 
@@ -32,4 +28,3 @@ Note the arguments are optional and consist of the minimum and maximum ports to 
 This will scan all the ports from 0 to 1000 and display the results on the terminal or command prompt.
 
 Note that the port scanner needs to run as an administrator or root user in order to have the permissions to scan certain ports.
->>>>>>> a736f2f (Updates)
